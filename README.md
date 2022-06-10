@@ -28,18 +28,18 @@ C, ASF, FreeROTS, MQTT
 
 ## 3D Model
 # File Description
-【BOM.xlsx】: The BOM of our PCB.
+【**BOM.xlsx**】: The BOM of our PCB.
 
-【Componets information.docx】: The information of componets we used in this project.
+【**Componets information.docx**】: The information of componets we used in this project.
 
-【Power Structure.docx】: The Power strcuture of PCB.
+【**Power Structure.docx**】: The Power strcuture of PCB.
 
-【Pinter_Documentation.PDF】: The manufacturing information of PCB
+【**Pinter_Documentation.PDF**】: The manufacturing information of PCB
 
-【SAMW25_PinAssignments.xlsx】: The Pin assignments of SAMW25 in PCB
+【**SAMW25_PinAssignments.xlsx**】: The Pin assignments of SAMW25 in PCB
 
-【Printer_Altium.zip】: Schematic we draw
+【**Printer_Altium.zip**】: Schematic we draw
 
-【Printer_Microchip.zip】: C code for Microchip Studio
+【**Printer_Microchip.zip**】: C code for Microchip Studio
 # Partner
 Xinyang Tan (@jasonxytan)
