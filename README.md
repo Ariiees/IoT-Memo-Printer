@@ -20,7 +20,6 @@ C, ASF, FreeROTS, MQTT
 ## System Diagram
 <img width="485" alt="162537519-8bff6a82-c7ea-4335-869f-d5a9da1c383b" src="https://user-images.githubusercontent.com/87698138/172966985-a6d3ee16-d85a-467a-83ff-b60996ca8869.png">
 ## PCB Schematic (main)
-![162539013-0c5d6ab4-57d9-44e6-9b66-cbda211a9aa8](https://user-images.githubusercontent.com/87698138/172967003-c52c6b36-f91d-48ad-b2fe-9ca12be73ed0.png)
 ## PCB Layout (Top view)
 ## 3D Model
 # File Description
