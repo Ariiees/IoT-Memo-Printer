@@ -18,15 +18,28 @@ We are trying to write the SPI driver and printer's driver by ourselves. Once we
 C, ASF, FreeROTS, MQTT
 # Related Work
 ## System Diagram
-<img width="485" alt="162537519-8bff6a82-c7ea-4335-869f-d5a9da1c383b" src="https://user-images.githubusercontent.com/87698138/172966985-a6d3ee16-d85a-467a-83ff-b60996ca8869.png">
+<img width="900" alt="system" src="https://user-images.githubusercontent.com/87698138/172967498-daf9b1bb-4347-4bd5-9206-6517738d9def.png">
+
 ## PCB Schematic (main)
+<img width="1300" alt="schematic" src="https://user-images.githubusercontent.com/87698138/172967515-283adf82-e996-4b68-80e3-355ecba3c7c1.png">
+
 ## PCB Layout (Top view)
+<img width="1200" alt="layout" src="https://user-images.githubusercontent.com/87698138/172968140-431ca936-dd69-440e-bb9d-5f9cd7ea8dda.png">
+
 ## 3D Model
 # File Description
 【BOM.xlsx】: The BOM of our PCB.
+
 【Componets information.docx】: The information of componets we used in this project.
+
 【Power Structure.docx】: The Power strcuture of PCB.
+
 【Pinter_Documentation.PDF】: The manufacturing information of PCB
+
 【SAMW25_PinAssignments.xlsx】: The Pin assignments of SAMW25 in PCB
+
 【Printer_Altium.zip】: Schematic we draw
+
 【Printer_Microchip.zip】: C code for Microchip Studio
+# Partner
+Xinyang Tan (@jasonxytan)
