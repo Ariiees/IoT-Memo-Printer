@@ -27,6 +27,8 @@ C, ASF, FreeROTS, MQTT
 <img width="1200" alt="layout" src="https://user-images.githubusercontent.com/87698138/172968140-431ca936-dd69-440e-bb9d-5f9cd7ea8dda.png">
 
 ## 3D Model
+<img width="900" alt="layout" src="https://user-images.githubusercontent.com/87698138/174491477-3676e104-b962-43da-91b9-0635a4ecf42c.jpg">
+
 # File Description
 【**BOM.xlsx**】: The BOM of our PCB.
 
