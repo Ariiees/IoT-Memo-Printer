@@ -1,5 +1,8 @@
 # Inspiration
 Whether for study or work, more and more people leave their hometown and rely on phones to communicate with their parents, friends or lover. However, compared with the paper letters, this electronic messages seem less "warm". We are trying to combine the advantages of paper and letters and electronic messages to create a new way for people to express their love remotely.
+# Vedio link
+https://www.youtube.com/watch?v=XBrrBBWEzLw
+
 # What it does
 You can write a letter and share the photo you take to your lovers through MQTT net, and once people set before the printer, it will print what you send through website. The printer could print things locally and remotelly and it can also detect the local temperature of humidity.
 # How we built it
